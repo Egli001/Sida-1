@@ -1,4 +1,7 @@
 body{
-    margin-bottom: 0;
+    margin-bottom: 0px;
 
+}
+.firstHeader{
+    border: 5px solid;
 }
